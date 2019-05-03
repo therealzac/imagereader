@@ -1,0 +1,19 @@
+{
+  "name": "imagereader",
+  "version": "1.0.0",
+  "description": "API for age and gender detection in images/videos/steams",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/therealzac/imagereader.git"
+  },
+  "author": "Zac Wickstrom",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/therealzac/imagereader/issues"
+  },
+  "homepage": "https://github.com/therealzac/imagereader#readme"
+}
