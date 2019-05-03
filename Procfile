@@ -1,1 +1,1 @@
-web: gunicorn imagereader.wsgi --log-file -
+web: gunicorn imagereader.wsgi log/development.log
