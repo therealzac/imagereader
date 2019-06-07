@@ -9,4 +9,4 @@ Markdown==2.6.6
 bleach==1.4.3
 setuptools==41.0.1
 whitenoise==3.2
-cv2==4.1.0
+cv2
