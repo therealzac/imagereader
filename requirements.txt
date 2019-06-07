@@ -10,3 +10,4 @@ bleach==1.4.3
 setuptools==41.0.1
 whitenoise==3.2
 opencv-python
+cv2
