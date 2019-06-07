@@ -25,7 +25,7 @@ SECRET_KEY = '-hpd^r57$t+g@#zlay&nuuwgrkl_%)0*)v2)xn^fnhn-e!2&py'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['0.0.0.0', 'localhost', 'https://obviouslyimagereader.herokuapp.com']
 
 
 # Application definition
@@ -76,8 +76,8 @@ WSGI_APPLICATION = 'imagereader.wsgi.application'
 
 DATABASES = {
     'default': {
-        'ENGINE': 'django.db.backends.sqlite3',
-        'NAME': os.path.join(BASE_DIR, 'db.sqlite3'),
+        'ENGINE': 'django.db.backends.postgresql',
+        'NAME': os.path.join(BASE_DIR, 'db.postgresql'),
     }
 }
 
