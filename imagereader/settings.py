@@ -25,7 +25,7 @@ SECRET_KEY = '-hpd^r57$t+g@#zlay&nuuwgrkl_%)0*)v2)xn^fnhn-e!2&py'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['0.0.0.0', 'localhost', 'https://obviouslyimagereader.herokuapp.com']
+ALLOWED_HOSTS = ['0.0.0.0', 'localhost', 'https://obviouslyimagereader.herokuapp.com'] 
 
 
 # Application definition
