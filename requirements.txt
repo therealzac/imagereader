@@ -7,6 +7,6 @@ python-decouple==3
 Pillow==3.3.0
 Markdown==2.6.6
 bleach==1.4.3
-setuptools==41.0.1
+setuptools==65.5.1
 whitenoise==3.2
 opencv-python
